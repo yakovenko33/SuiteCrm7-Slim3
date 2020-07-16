@@ -1,0 +1,26 @@
+Tue Jun 30 12:08:05 2020 [18312][-none-][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Jun 30 12:08:12 2020 [18312][-none-][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Tue Jun 30 12:08:12 2020 [18312][-none-][FATAL] Email address save error
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] Cannot find bean file for module: Connectors
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] Cannot find bean file for module: Versions
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] Cannot find bean file for module: CustomFields
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] Cannot find bean file for module: Connectors
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] Cannot find bean file for module: Versions
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] Cannot find bean file for module: CustomFields
+Tue Jun 30 12:08:15 2020 [18312][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Jun 30 12:08:16 2020 [18312][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Jun 30 12:08:18 2020 [18312][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Connectors
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Connectors
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Versions
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Versions
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: CustomFields
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: CustomFields
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Connectors
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Connectors
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Versions
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: Versions
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: CustomFields
+Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: CustomFields
+Tue Jun 30 14:54:40 2020 [18312][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
