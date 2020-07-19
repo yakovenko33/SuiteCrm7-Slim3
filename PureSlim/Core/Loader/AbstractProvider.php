@@ -4,6 +4,7 @@
 namespace PureSlim\Core\Loader;
 
 
+use Psr\Container\ContainerInterface;
 use Slim\App;
 
 abstract class AbstractProvider
@@ -19,6 +20,7 @@ abstract class AbstractProvider
     public function initProvider(App $app)
     {
         $this->includeRoutes($app);
+        $this->getContainer($app->getContainer());
     }
 
     /**
@@ -32,8 +34,19 @@ abstract class AbstractProvider
         }
     }
 
+    private function includeContainer(App $app)
+    {
+        //getContainer();
+    }
+
     /**
      * @return string
      */
     abstract protected function getRoutes();
+
+    /**
+     * @param ContainerInterface $container
+     * @return mixed
+     */
+    abstract protected function getContainer(ContainerInterface $container);
 }

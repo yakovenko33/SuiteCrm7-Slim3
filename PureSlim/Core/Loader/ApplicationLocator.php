@@ -30,20 +30,19 @@ class ApplicationLocator
     public function registerProviders()
     {
         foreach($this->getProviders() as $provider) {
-            $provider->initProvider($this->app);
+            (new $provider)->initProvider($this->app);
         }
 
         $this->app->run();
     }
 
     /**
-     * @return AccountsProvider[]
+     * @return string[]
      */
     private function getProviders()
     {
-        //PureSlim\src\AccountsModule\Infrastructure\Provider\AccountsProvider\AccountsProvider::class,
         return [
-            new AccountsProvider(),
+            AccountsProvider::class
         ];
     }
 }

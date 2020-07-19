@@ -24,3 +24,5 @@ Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module
 Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: CustomFields
 Tue Jun 30 13:01:31 2020 [18312][-none-][FATAL] Cannot find bean file for module: CustomFields
 Tue Jun 30 14:54:40 2020 [18312][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Sun Jul 19 21:37:27 2020 [24652][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Jul 19 21:37:27 2020 [24652][-none-][FATAL] FAILED LOGIN:attempts[1], ip[127.0.0.1], username[admin]

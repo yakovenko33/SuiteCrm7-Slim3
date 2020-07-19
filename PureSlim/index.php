@@ -8,6 +8,7 @@ $config = ['settings' => [
     'addContentLengthHeader' => false,
 ]];
 
+
 $app = new App($config);
 $services = new ApplicationLocator($app);
 
